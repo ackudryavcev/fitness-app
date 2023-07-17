@@ -1,6 +1,4 @@
-# Class 41 final project
-
-![Fitness APP]
+# Fitness APP
 
 A project created to study Typescript, Vite and TailWind
 
