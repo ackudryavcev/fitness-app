@@ -14,7 +14,7 @@ client
 |   └── scenes
 |   └── shared
 |   App.tsx
-|   main.jsx
+|   main.tsx
 
 ```
 
@@ -24,7 +24,7 @@ client
 - `hooks` || all of our custom hooks
 - `scenes` || the page components of our app, any routing will go between these components
 - `shared` || repeating elements
-- `index.tsx` || the start point of the client
+- `main.tsx` || the start point of the client
 
 ## 2. Stack / external libraries
 
